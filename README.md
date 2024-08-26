@@ -2,9 +2,9 @@
 
 *don't follow me chickens >=<*
 
-| **Category**             | **LeetCode Problems**                                                                                                    |
-|--------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| **Static Array**         | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>[Remove Element](https://leetcode.com/problems/remove-element/)<br>[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |
+| **Category**             | **LeetCode Problems**                                                                                                    |✅|
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------|-------|
+| **Static Array**         | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>[Remove Element](https://leetcode.com/problems/remove-element/)<br>[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)     |  |
 | **Dynamic Array**        | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                                 |
 | **Stacks**               | [Baseball Game](https://leetcode.com/problems/baseball-game/)<br>[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)<br>[Min Stack](https://leetcode.com/problems/min-stack/)             |
 | **Singly Linked Lists**  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)<br>[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                             |
